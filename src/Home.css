@@ -1,0 +1,40 @@
+.hero-image {
+    width: 400px;
+}
+
+@media (max-width: 700px){
+    .hero-image{
+        width: 200px;
+    }
+
+    .hero-image-background {
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+    }
+
+    .addcomplaint-content{
+        width: "700px";
+    }
+}
+
+.hero-image-background {
+    background-image: url('E:\workspace\react learning\complaintbox\src\images\InShot_20240422_213759909.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
+}
+
+.user-addcomplaint {
+    /* background-image: url('E:\workspace\react learning\complaintbox\src\images\background.jpg'); */
+    background-color: #ffe9b7;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}

@@ -1,0 +1,18 @@
+react-router-dom
+react-hook-form 
+yup
+@hookform/resolvers
+@heroicons/react
+@headlessui/react
+moment
+navigator
+react-geolocation
+Geolocation
+axios
+react-select
+react-dropzone
+@emailjs/browser
+@material-tailwind/react
+react-icons
+@react-email/button -E
+react-anchor-link-smooth-scroll
